@@ -1,6 +1,5 @@
 SuperCMD
 ========
-[TOC]
 
 author:
 > Steve Göring stg7@gmx.de
@@ -34,15 +33,15 @@ see: config.json
 Modules directory (tools)
 -------------------------
 e.g.:
-├── core
-│   ├── checker.sh
-│   ├── install.sh
-│   └── remove.sh
-└── test
-    ├── a.sh
-    ├── b
-    ├── t.oy
-    └── t.txt
+    ├── core
+    │   ├── checker.sh
+    │   ├── install.sh
+    │   └── remove.sh
+    └── test
+        ├── a.sh
+        ├── b
+        ├── t.oy
+        └── t.txt
 
 core and test are metanames for each toolkit
 a call
