@@ -55,6 +55,11 @@ will print a short summary of all tools
 
 will perform a code style check of the tools directory
 
+for each command you can use a shortcut if this shortcut is unique, e.g.
+>$./supercmd.py c c
+
+will start the code style checker
+
 Adding a new Module
 -------------------
 first create a new folder in the "moduls_directory" with name FOLDER
