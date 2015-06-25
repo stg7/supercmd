@@ -33,6 +33,7 @@ see: config.json
 Modules directory (tools)
 -------------------------
 e.g.:
+```
     ├── core
     │   ├── checker.sh
     │   ├── install.sh
@@ -42,6 +43,7 @@ e.g.:
         ├── b
         ├── t.oy
         └── t.txt
+```
 
 core and test are metanames for each toolkit
 a call
