@@ -1,0 +1,5 @@
+{
+    "moduls_directory": "tools/",
+    "allowed_scripts": ["python", "bash"],
+    "ignored_dirs": ["CVS"]
+}
